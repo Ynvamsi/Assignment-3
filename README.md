@@ -1,7 +1,7 @@
 # Assignment-3
  Assignment-3 of CS-648 course
  
-This is the third assignment of **CS648** @ _Module 2_
+This is the third assignment of **CS648** @ _Module 3_
 The topics covered in module 3 are:
  * Selector types
  * CSS properties.
